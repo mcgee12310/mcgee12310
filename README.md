@@ -3,10 +3,10 @@
   
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=00FFFF&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sophie+Nguyen+🌻)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=00FFFF&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=00FFFF&background=00000000&width=500&height=120&lines=++Hello!+I'm+Nguyen+Khac+Hieu+🦈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=00FFFF&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌊)](https://git.io/typing-svg)
 
-# <a href="https://github.com/SophieNguyen113"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Sophie Nguyen 🌻 
+# <a href="https://github.com/mcgee12310"><img src="https://wallpapercave.com/w/wp14352563.jpg" width="200px" height="200px" alt=""></a> How do you do? I’m Nguyen Khac Hieu 🦈
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
