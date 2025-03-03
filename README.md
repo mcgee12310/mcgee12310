@@ -59,25 +59,24 @@
 
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
+  <a href="https://www.facebook.com/hieu.nguyenkhac.5621/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=100&id=118555&format=png&color=000000" alt="" />
   </a>
   <a href="mailto:hieubinbom@gmail.com" target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
   </a>
+  <a href="https://sun-xseeds.slack.com/team/U07K8UYE743" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=GlTHCtTcectL&format=png&color=000000" alt="" />
+  </a>
+  <a href="https://github.com/mcgee12310" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" alt="" />
+  </a>
 </div>
 
 <br>
-<div align="center">
-<a href="https://github.com/mcgee12310">
-<img src="https://wallpapercave.com/w/wp14352563.jpg" width="200px" height="200px" alt="">
-</a>
-
-</div>
 
 <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
 
 <br>
-
 
 -----
