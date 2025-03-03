@@ -10,7 +10,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-🎓 Third-year student at Hanoi University of Science and Technology  (HUST)
+🎓 Third-year student at Hanoi University of Science and Technology  (HUST) <br>
 💻 Passionate about IoT, Cloud and Systems development  
 🚀 Love hard-core games and adventure
 
